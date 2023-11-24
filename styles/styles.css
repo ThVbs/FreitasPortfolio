@@ -127,7 +127,7 @@ p {
 #a-container {
     position: fixed;
     bottom: 20px;
-    left: 20px;
+    left: 5px;
     display: none; /* Inicialmente ocultos */
     z-index: 2; /* Coloque acima do drawer */
 }
